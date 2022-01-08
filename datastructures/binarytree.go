@@ -24,7 +24,6 @@ func (t *BinaryTree) insert(data int64) *BinaryTree {
 }
 
 func (n *BinaryNode) insert(data int64) {
-
 }
 
 func main() {
