@@ -23,6 +23,7 @@ func main() {
 			fmt.Println(j, q)
 		}
 	}
+
 	fmt.Println("------------------------------------------------------")
 	fmt.Println("Looping in multidimensional array without using range")
 
